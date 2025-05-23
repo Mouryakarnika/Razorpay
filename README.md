@@ -17,4 +17,4 @@ A simple, responsive Razorpay landing page clone built with **HTML** and **Tailw
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Mouryakarnika/razorpay-clone.git
+   git clone https://github.com/Mouryakarnika/Razorpay.git
